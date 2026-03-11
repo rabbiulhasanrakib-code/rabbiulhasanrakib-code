@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Md. Rabbiul Hasan Rakib
 
-<!--
-**rabbiulhasanrakib-code/rabbiulhasanrakib-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Statistics and Data Science student at Jahangirnagar University with an interest in data analysis, visualization, and business intelligence.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analysis
+- Power BI
+- Python
+- SQL
+- Data Visualization
+- Statistical Analysis
+
+## Featured Project
+
+### Omniretail Performance Dashboard
+
+Retail analytics dashboard built using Power BI that analyzes revenue trends, product performance, and customer insights.
+
+Project link:
+https://github.com/rabbiulhasanrakib-code/omniretail-powerbi-dashboard
+
+## Education
+
+B.Sc. in Statistics and Data Science  
+Jahangirnagar University
+
+## Interests
+
+- Data analytics
+- Business intelligence
+- Statistical modeling
