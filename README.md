@@ -11,6 +11,7 @@ I enjoy transforming raw data into meaningful insights using analytical and visu
 - Power BI
 - Python
 - SQL
+- Excel
 - Data Visualization
 - Statistical Analysis
 
